@@ -26,6 +26,7 @@ Please feel free to [pull requests](https://github.com/he-y/awesome-Pruning/pull
 |:----------- |:--------------:|:--------------:|:-----------:|
 | Explanation | Filter pruning | Weight pruning | other types |
 
+
 ### 2020
 
 | Title                                                                                                                            | Venue | Type    | Code |
